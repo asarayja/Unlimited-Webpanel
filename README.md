@@ -4,7 +4,7 @@
 This is a short, user-facing overview of what Unlimited Webpanel provides and the system requirements for running it. The project is normally distributed pre-built; this README focuses on features and operational requirements rather than build steps.
 
 What is Unlimited?
-- A web-based admin panel for FiveM servers built around QBX/QBCore conventions. It gives server administrators and staff a central UI to manage players, jobs, inventories and internal staff workflows.
+- A web-based admin panel for FiveM servers built around QBX conventions. It gives server administrators and staff a central UI to manage players, jobs, inventories and internal staff workflows.
 
 Key features (for users and admins)
 - 🎯 Dashboard
@@ -37,3 +37,4 @@ System requirements (runtime)
 
 Notes
 for bugs or having idean for a new feature or a support for a new garage send me a message on Discord and with name Unlimited Webpanel Reforge and the bugs or feature idea
+It only Support qbx(qbox) for now but i have a plane to update it to support qbcore again in the future
