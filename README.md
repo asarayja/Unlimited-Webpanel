@@ -36,5 +36,5 @@ System requirements (runtime)
 - OX Inventory (required to use inventory-related features such as player inventory, shops and stashes) ✅
 
 Notes
-for bugs or having idean for a new feature or a support for a new garage send me a message on Discord and with name Unlimited Webpanel Reforge and the bugs or feature idea
+for bugs or having idean for a new feature or a support for a new garage you can go to ur Unlimited Webpanel Reforge Discord and the bugs or feature idea
 It only Support qbx(qbox) for now but i have a plane to update it to support qbcore again in the future
